@@ -1,0 +1,125 @@
+    <resources>
+    <string name="app_name">testttt</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Register">Register</string>
+    <string name="Click_to_login">Click to login</string>
+    <string name="Click_to_register">Click to register</string>
+    <string name="Logout">Logout</string>
+    <string name="service_provider">Service provider</string>
+    <string name="client">Client</string>
+    <string name="my_profile">My Profile</string>
+    <string name="logout">Logout</string>
+    <string name="Add_Job">Add Job</string>
+    <string name="New_Job_Details">New Job Details</string>
+    <string name="New_Buisness_Details">New Buisness Details</string>
+    <string name="City">City</string>
+    <string name="Add_new_business">Add New Business</string>
+    <string name="Edit_Buisness_Details">Edit Buisness Details</string>
+    <string name="Edit_My_Profile">Edit My Profile</string>
+    <string name="home">Home</string>
+    <string name="switch_to_client">Switch To Client</string>
+    <string name="client_id">199379205757-7dppcokcbqlotq9fr8cb3q36qs0cd54t.apps.googleusercontent.com</string>
+    <string name="New_Business_Details">New Business Details</string>
+    <string name="image_view_desc">esc</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="password_visibility_off">password_visibility_off</string>
+    <string name="switch_to_service_provider">Switch To Service Provider</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="NEWBEE">NEWBEE</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="service_provider_profile">Service Provider Profile</string>
+    <string name="delete">Delete</string>
+    <string name="find_me_NEWBEE">Find me NEWBEE</string>
+    <!-- Sort Options -->
+    <string-array name="sort_options">
+        <item>Name</item>
+        <item>Category</item>
+        <item>City</item>
+        <item>Lowest Price</item>
+    </string-array>
+    <string-array name="bis_categories">
+        <item>Cosmetics</item>
+        <item>Plumbing</item>
+        <item>Private Tutor</item>
+        <item>Electrician</item>
+        <item>Transportation Services</item>
+        <item>DJ</item>
+        <item>Exterminator</item>
+        <item>Babysitter</item>
+        <item>Cleaning Service</item>
+        <item>Handyman</item>
+        <item>Physical Therapy</item>
+        <item>Massage</item>
+        <item>Psychology</item>
+        <item>Landscaping</item>
+        <item>Pet Grooming</item>
+        <item>Catering</item>
+        <item>Graphic Design</item>
+        <item>Web Development</item>
+        <item>Accounting</item>
+        <item>Legal Services</item>
+        <item>Real Estate</item>
+        <item>Event Planning</item>
+        <item>Fitness Training</item>
+        <item>Photography</item>
+        <item>Carpentry</item>
+        <item>Interior Design</item>
+        <item>Tailoring</item>
+        <item>Auto Repair</item>
+        <item>IT Support</item>
+        <item>Marketing Consulting</item>
+        <item>Hairdressing</item>
+        <item>Nail Salon</item>
+        <item>Yoga Instruction</item>
+        <item>Music Lessons</item>
+        <item>Dance Instruction</item>
+        <item>Painting (Residential/Commercial)</item>
+        <item>Roofing Services</item>
+        <item>Window Cleaning</item>
+        <item>Snow Removal</item>
+        <item>Pool Cleaning</item>
+        <item>Security Services</item>
+        <item>Locksmith</item>
+        <item>Childcare Center</item>
+        <item>Elder Care Services</item>
+        <item>Courier Services</item>
+        <item>Translation Services</item>
+        <item>Pet Sitting</item>
+        <item>Tutoring Center</item>
+        <item>Mobile Car Wash</item>
+        <item>HVAC Services</item>
+        <item>Bakery</item>
+        <item>Florist</item>
+        <item>Barber Shop</item>
+        <item>Driving School</item>
+        <item>Speech Therapy</item>
+        <item>Occupational Therapy</item>
+        <item>Chiropractic Services</item>
+        <item>Dietitian/Nutritionist</item>
+        <item>Personal Chef</item>
+        <item>Life Coaching</item>
+        <item>Business Consulting</item>
+        <item>Tax Preparation</item>
+        <item>Insurance Agency</item>
+        <item>Virtual Assistant</item>
+        <item>Mobile Repair Services</item>
+        <item>Window Installation</item>
+        <item>Moving Services</item>
+        <item>Financial Planning</item>
+        <item>SEO Services</item>
+        <item>House Sitting</item>
+        <item>Antique Restoration</item>
+        <item>Bicycle Repair</item>
+        <item>Car Detailing</item>
+        <item>Bookkeeping</item>
+        <item>Writing/Editing Services</item>
+        <item>Else</item>
+    </string-array>
+</resources>

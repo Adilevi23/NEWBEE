@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/change_password"
+        android:id="@+id/ChangePassword"/>
+
+    <item
+        android:title="@string/logout"
+        android:id="@+id/Logout"/>
+
+    <item
+        android:title="@string/home"
+        android:id="@+id/home"
+        android:icon="@drawable/outline_home_24"
+        app:showAsAction="ifRoom"/>
+
+</menu>

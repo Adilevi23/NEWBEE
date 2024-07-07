@@ -1,0 +1,6 @@
+<resources>
+    <!-- Define the size of each image -->
+    <dimen name="image_size">100dp</dimen>
+    <!-- Define the margin around each image -->
+    <dimen name="image_margin">8dp</dimen>
+</resources>

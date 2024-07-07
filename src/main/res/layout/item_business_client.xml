@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/white"
+    android:padding="8dp">
+
+    <!-- Business Name Item -->
+    <TextView
+        android:id="@+id/textViewBisName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.8"
+        android:backgroundTint="#FFFFFF"
+        android:gravity="start"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <!-- Category Item -->
+    <TextView
+        android:id="@+id/textViewBusinessCategory"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.3"
+        android:gravity="start"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <!-- City Item -->
+    <TextView
+        android:id="@+id/textViewCity"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:gravity="start"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <!-- Min Price Item -->
+    <TextView
+        android:id="@+id/textViewMinPrice"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <!-- Max Price Item -->
+    <TextView
+        android:id="@+id/textViewMaxPrice"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <!-- Edit Button -->
+    <Button
+        android:id="@+id/editButton"
+        android:layout_width="56dp"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:drawableLeft="@drawable/baseline_contact_phone_24" />
+</LinearLayout>

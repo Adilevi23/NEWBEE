@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199379205757",
+    "project_id": "newbee-b467d",
+    "storage_bucket": "newbee-b467d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199379205757:android:4b6d2b73ff9d3c32d87b14",
+        "android_client_info": {
+          "package_name": "com.example.testttt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199379205757-1iv23ea5j4533ibhvpeivosah4bfqofs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testttt",
+            "certificate_hash": "a30dd4a9b94508bd8994d8c834d04ff464d03ff4"
+          }
+        },
+        {
+          "client_id": "199379205757-7dppcokcbqlotq9fr8cb3q36qs0cd54t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJBqro2v0GObl0EHB9LvMDscsEIWRh69s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199379205757-7dppcokcbqlotq9fr8cb3q36qs0cd54t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

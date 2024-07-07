@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:backgroundTint="@color/anotheryellow"
+    android:background="@android:color/darker_gray">
+
+    <!-- Business Name Header -->
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.8"
+        android:gravity="start"
+        android:text="Business \nName"
+        android:textStyle="bold"
+        android:textSize="12sp"/>
+
+    <!-- Category Header -->
+
+    <!-- City Header -->
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.3"
+        android:gravity="start"
+        android:text="Category"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:gravity="start"
+        android:text="City"
+        android:textStyle="bold"
+        android:textSize="12sp"/>
+
+    <!-- Min Price Header -->
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Min \nPrice"
+        android:textStyle="bold"
+        android:textSize="12sp"/>
+
+    <!-- Max Price Header -->
+
+    <!-- Placeholder for the edit button column to align headers with items -->
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Max \nPrice"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/editButton"
+        android:layout_width="56dp"
+        android:layout_height="wrap_content"
+        android:width="24dp"
+        android:height="24dp"
+        android:background="@android:color/transparent"
+        android:text="+"
+        android:textColor="#040404"
+        android:textSize="14sp" />
+</LinearLayout>
